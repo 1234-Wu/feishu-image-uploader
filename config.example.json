@@ -1,0 +1,12 @@
+{
+  "APP_TOKEN": "",
+  "TABLE_ID": "",
+  "PERSONAL_BASE_TOKEN": "",
+  "VIEW_ID": "",
+  "ATTACHMENT_FIELD_NAME": "图片",
+  "BASE_DIR": "data",
+  "COVER_FOLDER_NAME": "cover",
+  "DETAIL_FOLDER_NAMES": ["detail-1", "detail-2", "detail-3"],
+  "ENABLE_COMPRESSION": true,
+  "MAX_IMAGE_WIDTH": 900
+}

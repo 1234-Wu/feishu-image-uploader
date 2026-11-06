@@ -1,0 +1,9 @@
+/config.local.json
+/.env
+/.env.*
+/data/
+/temp_upload_*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
